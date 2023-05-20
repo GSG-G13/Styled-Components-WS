@@ -1,6 +1,7 @@
 # **styled-components <💅>**
 
 ReactJS styled-components is a library that allows you to write CSS code in your JavaScript files using a component-based approach. It provides a convenient way to create and manage styled-components, encapsulating both the styling and the logic within a single component, making it easier to develop and maintain styling in React applications.
+
 ---
 ## **Why styled-components?**
 - **Automatic critical CSS:** styled-components keeps track of which components are rendered on a page and injects their styles and nothing else, fully automatically. Combined with code splitting, this means your users load the least amount of code necessary.
